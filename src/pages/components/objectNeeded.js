@@ -1,0 +1,1 @@
+export const imagesDir = "https://clavstoreimages.etnants.com/funnel_images/";
